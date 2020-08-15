@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🤔 I’m currently working on ... Python
-- 🌱 I’m currently learning ... Web Development
+- 🌱 I’m currently learning ... Web Development and Machine Learning.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/thesingh_anu)
 - 😄 Pronouns: ... He/Him
