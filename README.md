@@ -22,6 +22,11 @@ These are some of the major technologies that I use:
 |--|--|--|--|--|
 <br>
 
+## Some of my stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=anubha2012v&show_icons=true&theme=radical&include_all_commits=true">
+|--|
+<br>
 
 ## Let's Connect :handshake:
 
