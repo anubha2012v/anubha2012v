@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m currently working on ... Python
 - 🌱 I’m currently learning ... Web Development.
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter](https://twitter.com/thesingh_anu)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/thesingh_anu) [Gmail](singh.anubhav2012@gmail.com) [Instagram](thesingh_anubhav)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Half finish
 -->
