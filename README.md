@@ -4,7 +4,6 @@
 
 
 Here are some ideas to get you started:
--Programming Languages: <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 - 🤔 I’m currently working on ... Java
 - 🌱 I’m currently learning ... Web Development.
 - 💬 Ask me about ... Anything
