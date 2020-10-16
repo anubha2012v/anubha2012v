@@ -4,10 +4,8 @@
 
 
 Here are some ideas to get you started:
-
+-Programming Languages: <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 - 🤔 I’m currently working on ... Java
--Programming Languages:
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 - 🌱 I’m currently learning ... Web Development.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Twitter](https://twitter.com/thesingh_anu) Email- singh.anubhav2012@gmail.com
