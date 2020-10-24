@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Python, Web Development & openCV.
 - 🌱 I’m currently learning JAVA, Data Structures & Algorithm and Machine Learning(ML).
 - 💬 Ask me about : Python and Web Development(Using HTML,CSS and Javascript.)
-- 😄 Pronouns: he/him 🧑🏻
+- 😄 Pronouns: he/him  🧑🏻
 - ⚡ Fun fact: I'm Half-finished.
 
 ## Skill Set :muscle:
