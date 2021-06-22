@@ -3,7 +3,7 @@
 <h3>I'm Anubhav Singh, from Siliguri, India. Currently I am pursuing my pre-final year B.Tech in Computer Science and Engineering 💻 from Siliguri Institute of Technology, West Bengal, India.</h3>
 
 
-- 🔭 I’m currently working on Python, Web Development & openCV.
+- 🔭 I’m currently working on Python and Machine Learning.
 - 🌱 I’m currently learning JAVA and Machine Learning(ML).
 - 💬 Ask me about : Python and Web Development(Using HTML,CSS and Javascript.)
 - 😄 Pronouns: he/him  🧑🏻
